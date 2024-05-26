@@ -1,0 +1,4 @@
+# if you run this project than installed this 
+pip install SpeechRecognition
+pip install PyAudio
+pip install pyttsx3
